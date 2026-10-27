@@ -1,0 +1,161 @@
+Politique de confidentialité
+Dernière mise à jour : 27/10/2026
+
+Cette politique de confidentialité explique quelles données peuvent être collectées, utilisées et conservées par le bot Discord, ainsi que les droits des utilisateurs et des administrateurs de serveur.
+
+1. Identité du service
+Le bot Discord est exploité par Nilmar.
+Il est utilisé pour fournir des fonctionnalités d’automatisation, de gestion, de modération, d’organisation ou de divertissement sur Discord.
+
+2. Données pouvant être collectées
+Selon les fonctionnalités utilisées, le bot peut traiter les données suivantes :
+
+Identifiant utilisateur Discord.
+
+Nom d’utilisateur et pseudonyme.
+
+Avatar Discord.
+
+Identifiant du serveur.
+
+Identifiants de salons, rôles, messages ou catégories.
+
+Contenu des commandes envoyées au bot.
+
+Données de configuration du serveur.
+
+Journaux techniques liés à l’utilisation du bot.
+
+Données nécessaires au bon fonctionnement des fonctionnalités activées.
+
+Le bot ne collecte que les données utiles à son fonctionnement.
+
+3. Finalités du traitement
+Les données sont utilisées pour :
+
+Exécuter les commandes du bot.
+
+Gérer les rôles, salons, équipes ou structures.
+
+Assurer la modération ou l’automatisation.
+
+Enregistrer les configurations du serveur.
+
+Déboguer et améliorer le service.
+
+Prévenir les abus, erreurs ou usages frauduleux.
+
+Répondre aux demandes des administrateurs.
+
+4. Base d’utilisation
+Les données traitées le sont uniquement dans le cadre :
+
+de l’exécution du service demandé,
+
+du bon fonctionnement du bot,
+
+du respect des règles du serveur,
+
+de la sécurité et de la maintenance technique.
+
+5. Partage des données
+Les données collectées ne sont pas vendues.
+
+Elles peuvent être partagées uniquement :
+
+avec les administrateurs du serveur concerné,
+
+avec les services techniques indispensables au fonctionnement du bot,
+
+si la loi l’exige,
+
+pour protéger l’intégrité du bot, de l’infrastructure ou des utilisateurs.
+
+6. Conservation des données
+Les données sont conservées pendant une durée nécessaire au fonctionnement du bot, à la maintenance, à la sécurité ou à la résolution d’incidents.
+
+Certaines données de configuration peuvent être conservées tant que le bot est utilisé sur le serveur concerné.
+
+Les journaux techniques peuvent être supprimés régulièrement ou après une période raisonnable.
+
+7. Sécurité
+Des mesures raisonnables sont mises en place pour protéger les données contre :
+
+l’accès non autorisé,
+
+la modification non autorisée,
+
+la perte,
+
+la divulgation accidentelle,
+
+l’utilisation abusive.
+
+Cependant, aucun système n’est totalement sécurisé à 100%.
+
+8. Droits des utilisateurs
+Selon le contexte, les utilisateurs et administrateurs peuvent demander :
+
+l’accès aux données les concernant,
+
+la rectification de données inexactes,
+
+la suppression de certaines données,
+
+la désactivation de certaines fonctionnalités,
+
+la suppression du bot du serveur, ce qui peut entraîner la suppression des données associées.
+
+Toute demande peut être adressée via les moyens de contact indiqués en fin de document.
+
+9. Suppression des données
+Lorsqu’un bot est retiré d’un serveur, les données liées à ce serveur peuvent être :
+
+supprimées immédiatement,
+
+conservées temporairement pour des raisons techniques,
+
+archivées si nécessaire pour la sécurité ou la conformité.
+
+Si une suppression complète est demandée, elle sera effectuée dans un délai raisonnable, sauf obligation légale contraire.
+
+10. Services tiers
+Le bot peut dépendre de services tiers, par exemple :
+
+l’infrastructure d’hébergement,
+
+des bases de données,
+
+Discord lui-même,
+
+des outils de supervision ou de journalisation.
+
+Ces services disposent de leurs propres politiques de confidentialité, indépendantes de celle du bot.
+
+11. Mineurs
+Le bot peut être utilisé sur des serveurs fréquentés par des mineurs, mais il n’est pas destiné à collecter intentionnellement des données sensibles sur les mineurs.
+
+Si une donnée personnelle sensible est traitée par erreur, elle peut être supprimée sur demande raisonnable.
+
+12. Modifications de cette politique
+Cette politique de confidentialité peut être modifiée à tout moment afin de refléter :
+
+les évolutions du bot,
+
+les changements techniques,
+
+les obligations légales,
+
+les nouvelles fonctionnalités.
+
+La version mise à jour remplace toute version précédente dès sa publication.
+
+13. Contact
+Pour toute question relative à cette politique de confidentialité ou à vos données, vous pouvez contacter :
+
+Email : nilmarpoubelle
+
+Discord : nilmartbst
+
+14. Acceptation
+En utilisant le bot, vous reconnaissez avoir lu et compris la présente politique de confidentialité.

@@ -1,0 +1,193 @@
+Conditions d’utilisation du bot Discord
+Dernière mise à jour : 27/10/2026
+
+En utilisant ce bot Discord, vous acceptez les présentes conditions d’utilisation. Si vous n’acceptez pas ces conditions, vous devez cesser d’utiliser le bot immédiatement.
+
+1. Objet du bot
+Le bot a pour objectif de fournir des fonctionnalités de gestion, d’automatisation, de modération, d’organisation ou de divertissement sur les serveurs Discord sur lesquels il est installé.
+
+Les fonctionnalités peuvent inclure, sans s’y limiter :
+
+la gestion de rôles,
+
+la création et suppression de salons,
+
+la gestion d’équipes ou de structures,
+
+les commandes de modération,
+
+les statistiques,
+
+l’automatisation de tâches internes au serveur.
+
+2. Acceptation des conditions
+L’utilisation du bot implique :
+
+l’acceptation pleine et entière des présentes conditions,
+
+le respect des règles de Discord,
+
+le respect des règles du serveur sur lequel le bot est utilisé.
+
+L’administrateur du serveur est responsable de l’usage du bot sur son serveur.
+
+3. Accès au bot
+L’accès au bot peut être :
+
+gratuit ou payant selon les services proposés,
+
+limité à certains serveurs,
+
+modifié, suspendu ou retiré à tout moment.
+
+Nous nous réservons le droit de restreindre l’accès à certaines fonctionnalités sans préavis.
+
+4. Utilisation autorisée
+Vous vous engagez à utiliser le bot de manière loyale, légale et conforme à sa fonction.
+
+Il est interdit de :
+
+détourner le bot de son usage prévu,
+
+tenter de contourner ses restrictions,
+
+exploiter une faille, un bug ou une erreur,
+
+spammer les commandes,
+
+utiliser le bot pour harceler, insulter ou menacer des utilisateurs,
+
+utiliser le bot à des fins illégales ou nuisibles.
+
+5. Permissions et responsabilités
+Lorsque vous invitez le bot sur un serveur, vous lui accordez les permissions nécessaires à son fonctionnement.
+
+Vous reconnaissez que :
+
+le bot peut créer, modifier ou supprimer des éléments selon ses permissions,
+
+les administrateurs doivent vérifier les permissions accordées,
+
+une mauvaise configuration peut entraîner des actions non désirées.
+
+Le propriétaire du bot ne pourra pas être tenu responsable d’une mauvaise configuration effectuée par un administrateur de serveur.
+
+6. Données collectées
+Le bot peut traiter certaines données nécessaires à son fonctionnement, par exemple :
+
+identifiants Discord,
+
+noms d’utilisateurs,
+
+identifiants de serveurs, salons ou rôles,
+
+contenu des commandes exécutées,
+
+données techniques de journalisation.
+
+Ces données sont utilisées uniquement pour :
+
+faire fonctionner le bot,
+
+assurer la sécurité,
+
+corriger les erreurs,
+
+améliorer les fonctionnalités.
+
+Le bot ne doit pas être utilisé pour collecter intentionnellement des données sensibles sans base légale ni consentement approprié.
+
+7. Conservation des données
+Les données peuvent être conservées pendant une durée nécessaire au fonctionnement du service, au débogage, à la sécurité ou à des fins statistiques.
+
+Les durées de conservation peuvent être modifiées à tout moment selon les besoins techniques ou légaux.
+
+8. Maintenance et interruptions
+Le bot peut être interrompu temporairement pour :
+
+maintenance,
+
+mises à jour,
+
+corrections de bugs,
+
+incidents techniques,
+
+migration d’infrastructure.
+
+Aucune garantie de disponibilité continue n’est fournie, sauf mention contraire.
+
+9. Modifications du service
+Nous nous réservons le droit de :
+
+modifier les fonctionnalités du bot,
+
+supprimer certaines commandes,
+
+ajouter de nouvelles fonctionnalités,
+
+changer l’interface ou le comportement du service,
+
+mettre fin au service à tout moment.
+
+10. Suspension ou bannissement
+Nous pouvons suspendre ou bannir l’accès au bot à tout utilisateur ou serveur qui :
+
+abuse du service,
+
+contourne les règles,
+
+cause un dysfonctionnement,
+
+menace la sécurité du bot ou de ses utilisateurs,
+
+enfreint les présentes conditions.
+
+11. Limitation de responsabilité
+Le bot est fourni “en l’état”, sans garantie d’aucune sorte.
+
+Nous ne pouvons pas être tenus responsables :
+
+des pertes de données,
+
+des interruptions de service,
+
+des erreurs de configuration,
+
+des suppressions accidentelles,
+
+des dommages indirects liés à l’utilisation du bot.
+
+Chaque administrateur reste responsable de la configuration et de l’usage du bot sur son serveur.
+
+12. Propriété intellectuelle
+Le code, le nom, l’identité visuelle, les textes, les logos et les fonctionnalités du bot restent la propriété de leurs ayants droit respectifs.
+
+Il est interdit de :
+
+copier le bot sans autorisation,
+
+revendiquer la propriété du bot,
+
+réutiliser des éléments protégés sans accord.
+
+13. Respect de Discord
+L’utilisation du bot doit respecter :
+
+les Conditions d’utilisation de Discord,
+
+la Politique de confidentialité de Discord,
+
+ainsi que toutes les règles applicables de la plateforme.
+
+En cas de conflit entre ces conditions et celles de Discord, les règles de Discord prévalent.
+
+14. Contact
+Pour toute question, demande de suppression de données ou signalement, vous pouvez contacter :
+
+Email : nilmarpoubelle@gmail.com
+
+Discord : nilmartbst
+
+15. Acceptation finale
+En utilisant le bot, vous reconnaissez avoir lu, compris et accepté les présentes conditions d’utilisation.
